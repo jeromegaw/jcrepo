@@ -1,1 +1,2 @@
-this is my first time to learn git software
+this is my first time to learn git software.
+the quick brown fox.
